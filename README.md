@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 ## Hi there, I'm Giuseppe :D
 
-$ I've been coding in Go primarily for the last 3 years  
-$ I'm completing [boot.dev](https://www.boot.dev/) courses to be a badass backender  
-$ I'm reading CSAPP, OSTEP to better understand OS's  
-$ I’m learning Python atm  
-$ I'm also learning French because my girlfriend lives in Nice  
+
+🖥️ I've been coding in Go primarily for the last 3 years  
+👷 I'm completing [boot.dev](https://www.boot.dev/) courses to be a badass backender  
+📖 I'm reading CSAPP, OSTEP to better understand OS's  
+🐍 I’m learning Python atm  
+🥖 I'm also learning French because my girlfriend lives in Nice  
 

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🖥️ I've been coding in Go primarily for the last 3 years  
 👷 I'm completing [boot.dev](https://www.boot.dev/) courses to be a badass backender  
-📖 I'm reading CSAPP, to better understand OS's and building a miniShell in Go
+📖 I'm reading CSAPP, to better understand OS's and building a miniShell in Go  
 🐍 I’m learning Python atm  
 🥖 I'm also learning French because my girlfriend lives in Nice  
 

@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 
 🖥️ I've been coding in Go primarily for the last 3 years, recently interested in C  
-👷 I'm completing [boot.dev](https://www.boot.dev/) courses
+👷 I'm completing [boot.dev](https://www.boot.dev/) courses  
 📖 I'm reading CSAPP, to better understand OS's and building a mini supervisor in C  
-🐍 I’m learning processes, signals, user-space Linux development atm
-🥖 I'm also learning French because my girlfriend lives in Nice  
+🐍 I’m learning processes, signals, user-space Linux development atm  
+🥖 I'm also learning French because my girlfriend lives in Nice   
 
